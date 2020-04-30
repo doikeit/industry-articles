@@ -1,6 +1,9 @@
 # Articles
 ## 2020
 ### April
+#### [Facebook deletes event for stay-at-home protest in Michigan](https://www.mlive.com/public-interest/2020/04/facebook-deletes-event-for-stay-at-home-protest-in-michigan.html)
+_Justin P. Hicks - Apr 28, 2020_
+> The Facebook event page for an upcoming protest against extending Michigan’s state of emergency was deleted by Facebook’s staff for defying the government’s guidance on social distancing.
 
 #### [Target Workers Unite: Statement on the 'United For Respect' Organization - Regeneration Magazine](https://regenerationmag.org/target-workers-unite-statement-on-the-united-for-respect-organization/)
 
