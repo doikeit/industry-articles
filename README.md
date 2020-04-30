@@ -2,6 +2,22 @@
 ## 2020
 ### April
 
+#### [Target Workers Unite: Statement on the 'United For Respect' Organization - Regeneration Magazine](https://regenerationmag.org/target-workers-unite-statement-on-the-united-for-respect-organization/)
+
+#### [I Never Planned to Be a Front-Line Worker at Dollar General](https://www.nytimes.com/2020/04/26/opinion/covid-workers-dollar-general.html)
+
+#### [A Brief History of the Gig](https://logicmag.io/security/a-brief-history-of-the-gig/)
+
+#### [CEO of Surveillance Firm Banjo Once Helped KKK Leader Shoot Up a Synagogue](https://onezero.medium.com/ceo-of-surveillance-firm-banjo-once-helped-kkk-leader-shoot-up-synagogue-fdba4ad32829)
+
+#### [Explainer: How to control women's sexual health with tech](https://www.reuters.com/article/us-britain-women-data-explainer-trfn/explainer-how-to-control-womens-sexual-health-with-tech-idUSKCN2252DR)
+
+#### [Want Pandemic Unemployment Assistance? California gives details for the self-employed](https://www.sfchronicle.com/business/networth/article/Want-Pandemic-Unemployment-Assistance-California-15219543.php)
+
+#### [ICE cold: Microsoft's GitHub wrings hands over US prez's Trump immigration ban plan](https://www.theregister.co.uk/2020/04/22/github_handwringing/)
+
+#### [How the Coronavirus Could Create a New Working Class](https://www.theatlantic.com/health/archive/2020/04/coronavirus-class-war-just-beginning/609919/)
+
 #### [Kickstarter plans layoffs after new projects on the site drop off by 35 percent](https://www.theverge.com/2020/4/20/21228412/kickstarter-layoffs-planned-coronavirus-project-declines-crowdfunding-union)
 _Ashley Carman - Apr 20, 2020_
 > Kickstarter announced in an internal memo today that it’s likely going to lay off employees. CEO Aziz Hasan writes that the crowdfunding company has already seen a significant drop in crowdfunding projects being listed on the site, which is how Kickstarter makes its money. Projects are down by about 35 percent, the memo states, with “no clear sign of rebound.”
