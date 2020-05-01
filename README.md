@@ -1,6 +1,11 @@
 # Articles
 ## 2020
 ### April
+
+#### [NSO Employee Abused Phone Hacking Tech to Target a Love Interest](https://www.vice.com/en_us/article/bvgwzw/nso-group-employee-abused-pegasus-target-love-interest)
+
+#### [Amazon locks down internal employee communications amid organizing efforts](https://arstechnica.com/tech-policy/2020/04/amazon-locks-down-internal-employee-communications-amid-organizing-efforts/)
+
 #### [Facebook deletes event for stay-at-home protest in Michigan](https://www.mlive.com/public-interest/2020/04/facebook-deletes-event-for-stay-at-home-protest-in-michigan.html)
 _Justin P. Hicks - Apr 28, 2020_
 > The Facebook event page for an upcoming protest against extending Michigan’s state of emergency was deleted by Facebook’s staff for defying the government’s guidance on social distancing.
