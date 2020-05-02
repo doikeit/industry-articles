@@ -1,5 +1,13 @@
 # Articles
 ## 2020
+### May
+
+#### 
+
+#### [Big Tech Won’t Save Us: The Case for Social Transformation over Coronavirus Surveillance](https://medium.com/@macprac/big-tech-wont-save-us-the-case-for-social-transformation-over-coronavirus-surveillance-d167163b711)
+
+#### [TWC Newsletter Issue 1: How do we help each other?](https://news.techworkerscoalition.org/2020/05/01/issue-1/)
+
 ### April
 
 #### [NSO Employee Abused Phone Hacking Tech to Target a Love Interest](https://www.vice.com/en_us/article/bvgwzw/nso-group-employee-abused-pegasus-target-love-interest)
