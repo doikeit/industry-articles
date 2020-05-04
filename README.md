@@ -2,13 +2,21 @@
 ## 2020
 ### May
 
-#### 
+#### [The Making of the Tech Worker Movement](https://logicmag.io/the-making-of-the-tech-worker-movement/full-text/)
+_Ben Tarnoff - MAY 04, 2020_
+> The walkout didn’t come out of nowhere: Google in particular and the tech industry in general were already in the midst of a wave of rank-and-file mobilization. And, while the walkout remains exceptional for its size, this wave has continued to grow. Tech workers are engaging in collective action at a range of companies, around a range of issues. A tech worker movement is taking shape.
 
-#### [Big Tech Won’t Save Us: The Case for Social Transformation over Coronavirus Surveillance](https://medium.com/@macprac/big-tech-wont-save-us-the-case-for-social-transformation-over-coronavirus-surveillance-d167163b711)
+#### [Leaving Amazon](https://www.tbray.org/ongoing/When/202x/2020/04/29/Leaving-Amazon)
+_Tim Bray - May 04, 2020_
+> May 1st was my last day as a VP and Distinguished Engineer at Amazon Web Services, after five years and five months of rewarding fun. I quit in dismay at Amazon firing whistleblowers who were making noise about warehouse employees frightened of Covid-19.
 
 #### [TWC Newsletter Issue 1: How do we help each other?](https://news.techworkerscoalition.org/2020/05/01/issue-1/)
 
 ### April
+
+#### [Big Tech Won’t Save Us: The Case for Social Transformation over Coronavirus Surveillance](https://medium.com/@macprac/big-tech-wont-save-us-the-case-for-social-transformation-over-coronavirus-surveillance-d167163b711)
+_[Movement for Anti-Oppressive Computing Practices](https://twitter.com/macprac/) - Apr 30, 2020_
+> Surveillance and structural inequality go hand-in-hand; in the era of coronavirus it will be no different.
 
 #### [NSO Employee Abused Phone Hacking Tech to Target a Love Interest](https://www.vice.com/en_us/article/bvgwzw/nso-group-employee-abused-pegasus-target-love-interest)
 
@@ -18,9 +26,9 @@
 _Justin P. Hicks - Apr 28, 2020_
 > The Facebook event page for an upcoming protest against extending Michigan’s state of emergency was deleted by Facebook’s staff for defying the government’s guidance on social distancing.
 
-#### [Target Workers Unite: Statement on the 'United For Respect' Organization - Regeneration Magazine](https://regenerationmag.org/target-workers-unite-statement-on-the-united-for-respect-organization/)
-
 #### [I Never Planned to Be a Front-Line Worker at Dollar General](https://www.nytimes.com/2020/04/26/opinion/covid-workers-dollar-general.html)
+_Kenya Slaughter - April 26, 2020_
+> No barriers, not enough staffing, low wages. They seem to not know there’s a danger to employees.
 
 #### [A Brief History of the Gig](https://logicmag.io/security/a-brief-history-of-the-gig/)
 
@@ -550,15 +558,6 @@ _Ryan Gallagher - March 18, 2020_
 #### [tech-workers-at-app-developer-glitch-vote-t](https://cwa-union.org/news/releases/tech-workers-app-developer-glitch-vote-form-union-and-join-cwa-organizing-initiative)
 > tech-workers-at-app-developer-glitch-vote-t
 
-#### [Fiverr: it’s bad, guys — it’s bad](https://link.medium.com/QOmif3QdP4)
-_Geoffrey Bunting - Mar 2, 2020_
-> Despite what we all know about bidding sites, Fiverr has outdone itself in building an unethical platform that punishes designers and customers.
-
-
-#### [Five Laid-Off Baristas At Slack’s Coronavirus-Closed Offices Will Receive Extra Pay](https://www.buzzfeednews.com/article/scottlucas/five-laid-off-baristas-at-slacks-coronavirus-closed-offices)
-_Scott Lucas, Caroline Haskins - March 12, 2020_
-> A GoFundMe for the laid-off workers has raised more than $15,000, in addition to concessions from their employer.
-
 #### [as-trump-expands-his-travel-ban-amazon-apple-](https://www.buzzfeednews.com/article/ryanmac/trump-travel-ban-apple-amazon-google-tech-silent)
 > as-trump-expands-his-travel-ban-amazon-apple-
 
@@ -603,10 +602,6 @@ _Andrew Marantz - March 2, 2020_
 #### [before-clearview-became-a-police-tool-it-wa](https://www.nytimes.com/2020/03/05/technology/clearview-investors.html)
 > before-clearview-became-a-police-tool-it-wa
 
-#### [The Man Behind Trump’s Facebook Juggernaut](https://www.theverge.com/2020/3/4/21165336/boosted-layoffs-money-funding-problems)
-_By Sean O'Kane@sokane1  Mar 4, 2020, 5:33pm EST_
-> The electric skateboard startup has struggled, especially since Trump’s trade war
-
 #### [this-small-company-is-turning-utah-into-a-s](https://www.vice.com/en_ca/article/k7exem/banjo-ai-company-utah-surveillance-panopticon)
 > this-small-company-is-turning-utah-into-a-s
 
@@ -625,6 +620,20 @@ _By Sean O'Kane@sokane1  Mar 4, 2020, 5:33pm EST_
 #### [why-young-silicon-valley-workers-are-rising](https://onezero.medium.com/why-young-silicon-valley-workers-are-rising-up-against-their-employers-69d812b23d52)
 > why-young-silicon-valley-workers-are-rising
 
+### March
+
+#### [Five Laid-Off Baristas At Slack’s Coronavirus-Closed Offices Will Receive Extra Pay](https://www.buzzfeednews.com/article/scottlucas/five-laid-off-baristas-at-slacks-coronavirus-closed-offices)
+_Scott Lucas, Caroline Haskins - March 12, 2020_
+> A GoFundMe for the laid-off workers has raised more than $15,000, in addition to concessions from their employer.
+
+#### [The Man Behind Trump’s Facebook Juggernaut](https://www.theverge.com/2020/3/4/21165336/boosted-layoffs-money-funding-problems)
+_By Sean O'Kane@sokane1  Mar 4, 2020, 5:33pm EST_
+> The electric skateboard startup has struggled, especially since Trump’s trade war
+
+#### [Fiverr: it’s bad, guys — it’s bad](https://link.medium.com/QOmif3QdP4)
+_Geoffrey Bunting - Mar 2, 2020_
+> Despite what we all know about bidding sites, Fiverr has outdone itself in building an unethical platform that punishes designers and customers.
+
 #### [ICE’S NEW YORK OFFICE USES A RIGGED ALGORITHM TO KEEP VIRTUALLY ALL ARRESTEES IN DETENTION. THE ACLU SAYS IT’S UNCONSTITUTIONAL.](https://theintercept.com/2020/03/02/ice-algorithm-bias-detention-aclu-lawsuit/)
 _Sam Biddle - March 2 2020_
 > A new lawsuit, however, filed by the New York Civil Liberties Union and Bronx Defenders, alleges that the algorithm doesn’t really make a decision, at least not one that can result in a detainee being released. Instead, the groups said, it’s an unconstitutional cudgel that’s been rigged to detain virtually everyone ICE’s New York Field Office brings in, even when the government itself believes they present a minimal threat to public safety.
@@ -633,6 +642,15 @@ _Sam Biddle - March 2 2020_
 _Nellie Bowles, Erin Griffith - March 2, 2020_
 > When it comes to the 2020 Democratic primaries, with California poised to allocate hundreds of delegates this week on Super Tuesday, many tech leaders in Silicon Valley have a plea: Anyone but Sanders.
 
+### February
+
+#### [This Oracle engineer is an undocumented immigrant. Here's why he says that Larry Ellison's Trump fundraiser is 'a blow to the stomach.'](https://www.businessinsider.com/oracle-protester-dreamer-undocumented-immigrant-daca-trump-larry-ellison-2020-2)
+_Benjamin Pimentel - Feb 19, 2020_
+> This story is available exclusively on Business Insider Prime.
+
+#### [CIA Opens Competition for Lucrative Cloud Deals to Amazon Rivals](https://www.bloomberg.com/news/articles/2020-02-05/cia-opens-competition-for-lucrative-cloud-deals-to-amazon-rivals)
+_Naomi Nix - February 5, 2020_
+> Government posts draft requirements for new cloud contracts. Program builds on $600 million deal awarded to Amazon in 2013.
 #### [first-ever-international-meeting-of-app-base](https://iwgb.org.uk/post/5e2ff05f4b19a/first-ever-international-meeti)
 > first-ever-international-meeting-of-app-base
 
@@ -687,10 +705,6 @@ _Dell Cameron, Dhruv Mehrotra, Shoshana Wodinsky - 2/27/20_
 
 #### [emotional-baggage-inside-the-toxic-work-env](https://www.theverge.com/2019/12/5/20995453/away-luggage-ceo-steph-korey-toxic-work-environment-travel-inclusion)
 > emotional-baggage-inside-the-toxic-work-env
-
-#### [This Oracle engineer is an undocumented immigrant. Here's why he says that Larry Ellison's Trump fundraiser is 'a blow to the stomach.'](https://www.businessinsider.com/oracle-protester-dreamer-undocumented-immigrant-daca-trump-larry-ellison-2020-2)
-_Benjamin Pimentel - Feb 19, 2020_
-> This story is available exclusively on Business Insider Prime.
 
 #### [exclusive-survey-reveals-discrimination-aga](https://onezero.medium.com/visa-workers-at-techs-biggest-companies-speak-out-about-discrimination-298c9fa686b6)
 > exclusive-survey-reveals-discrimination-aga
@@ -863,9 +877,6 @@ _Benjamin Pimentel - Feb 19, 2020_
 #### [questioning-tech-work](https://medium.com/@AINowInstitute/questioning-tech-work-fbc7e040274d)
 > questioning-tech-work
 
-#### [CIA Opens Competition for Lucrative Cloud Deals to Amazon Rivals](https://www.bloomberg.com/news/articles/2020-02-05/cia-opens-competition-for-lucrative-cloud-deals-to-amazon-rivals)
-_Naomi Nix - February 5, 2020_
-> Government posts draft requirements for new cloud contracts. Program builds on $600 million deal awarded to Amazon in 2013.
 
 #### [short-window-39-to-stop-ai-taking-contro](https://www.irishtimes.com/business/technology/short-window-to-stop-ai-taking-control-of-society-warns-ex-google-employee-1.4104535)
 > 39-short-window-39-to-stop-ai-taking-contro
@@ -873,33 +884,63 @@ _Naomi Nix - February 5, 2020_
 #### [mr-online-a-letter-to-intellectuals-who-der](https://mronline.org/2019/11/20/a-letter-to-intellectuals-who-deride-revolutions-in-the-name-of-purity/?fbclid=IwAR0nTZX3Xk8oLspb7vmXu1aXKjj2RJ1O0ci5OiUEOa64Cuvy0-YY2Cq-H1I)
 > mr-online-a-letter-to-intellectuals-who-der
 
-#### [How To Unionize Your Workplace](https://youtu.be/JvrldZlUwe0)
-_Another Slice - Nov 1, 2019_
-> Don't watch this on a workplace computer or phone! Also, don't substitute this for face to face organizing trainings, such as the OT101 by the IWW.
-
-#### [When Elon Musk Tried to Destroy a Tesla Whistleblower](https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp)
-_Matt Robinson, Zeke Faux - March 13, 2019_
-> It started with a Twitter meltdown and ended with a fake mass shooter. A former security manager says the company also spied and spread misinformation.
-
 #### [tech-recruiters-were-once-welcomed-on-campu](https://www.latimes.com/business/technology/story/2019-12-07/students-protest-tech-companies-ice-contracts)
 > tech-recruiters-were-once-welcomed-on-campu
 
 #### [instacart-workers-are-launching-a-week-of-p](https://www.vice.com/en_us/article/bjwwkm/instacart-workers-are-launching-a-week-of-protest-against-the-apps-tipping-policy)
 > instacart-workers-are-launching-a-week-of-p
 
-#### [Ring’s Hidden Data Let Us Map Amazon's Sprawling Home Surveillance Network](https://gizmodo.com/ring-s-hidden-data-let-us-map-amazons-sprawling-home-su-1840312279)
-_Dell Cameron, Dhruv Mehrotra - 12/09/19_
-> As reporters raced this summer to bring new details of Ring’s law enforcement contracts to light, the home security company, acquired last year by Amazon for a whopping $1 billion, strove to underscore the privacy it had pledged to provide users.
-
 #### [away-replaces-ceo-steph-korey-after-verge-i](https://www.theverge.com/2019/12/9/21003787/away-luggage-steph-korey-ceo-new-lululemon-stuart-haselden-replacement-investigation)
 > away-replaces-ceo-steph-korey-after-verge-i
+
+## 2019
+
+### December
 
 #### [America’s Top Foundations Bankroll Attack on Big Tech](https://www.nytimes.com/2019/12/10/technology/americas-top-foundations-bankroll-attack-on-big-tech.html)
 _David McCabe - Dec. 10_
 > Major nonprofits and other organizations have pledged millions of dollars toward groups trying to build a modern trust-busting movement.
 
-## 2018
+#### [Ring’s Hidden Data Let Us Map Amazon's Sprawling Home Surveillance Network](https://gizmodo.com/ring-s-hidden-data-let-us-map-amazons-sprawling-home-su-1840312279)
+_Dell Cameron, Dhruv Mehrotra - 12/09/19_
+> As reporters raced this summer to bring new details of Ring’s law enforcement contracts to light, the home security company, acquired last year by Amazon for a whopping $1 billion, strove to underscore the privacy it had pledged to provide users.
+
+### November
+
+#### [How To Unionize Your Workplace](https://youtu.be/JvrldZlUwe0)
+_Another Slice - Nov 1, 2019_
+> Don't watch this on a workplace computer or phone! Also, don't substitute this for face to face organizing trainings, such as the OT101 by the IWW.
+
+### October
 ### September
+### August
+
+#### [Target Workers Unite: Statement on the 'United For Respect' Organization - Regeneration Magazine](https://regenerationmag.org/target-workers-unite-statement-on-the-united-for-respect-organization/)
+_Target Workers - August 5, 2019_
+> We, the workers of Target, were extremely disillusioned with these repeated promises, backpedaling, and changes of mind. We were always thanked for “being flexible” and for understanding that U4R was in a “period of transition.” Frankly, we’ve never known U4R to not be in a “period of transition,” an apparent excuse to justify backdoor maneuvering that undermines our rank and file efforts. This is why we launched Target Workers Unite.
+
+### July
+
+### June
+
+### May
+
+### April
+
+### March
+
+#### [When Elon Musk Tried to Destroy a Tesla Whistleblower](https://www.bloomberg.com/news/features/2019-03-13/when-elon-musk-tried-to-destroy-tesla-whistleblower-martin-tripp)
+_Matt Robinson, Zeke Faux - March 13, 2019_
+> It started with a Twitter meltdown and ended with a fake mass shooter. A former security manager says the company also spied and spread misinformation.
+
+### February
+
+### January
+
+## 2018
+
+### September
+
 #### [Leaked Video Reveals Amazon's Belligerent Anti-Worker Tactics](https://www.commondreams.org/news/2018/09/27/unions-are-lying-cheating-rats-leaked-video-reveals-amazons-belligerent-anti-worker)
 _Jake Johnson - Thursday, September 27, 2018_
 > As Amazon works to combat its public image as a starvation-wage employer by doling out mere pennies in pay hikes and deploying an army of workers to sing the company's praises on Twitter, a video leaked on Wednesday revealed that the trillion-dollar company is continuing to work feverishly behind the scenes to crush any attempts by workers to unionize and bargain collectively for better wages and working conditions.
